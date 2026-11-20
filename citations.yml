@@ -2,11 +2,11 @@ metadata:
   scholar_user_id: EchdyZEAAAAJ
   author_name: Vincent Tao Hu
   source_url: https://scholar.google.com/citations?user=EchdyZEAAAAJ&hl=en
-  last_updated: '2026-11-18'
-  fetched_at: '2026-11-18T17:04:27+00:00'
+  last_updated: '2026-11-20'
+  fetched_at: '2026-11-20T09:41:03+00:00'
   publication_count: 44
 summary:
-  total_citations: 1807
+  total_citations: 1810
   h_index: 18
   i10_index: 25
 papers:
@@ -21,7 +21,7 @@ papers:
   EchdyZEAAAAJ:ns9cj8rnVeAC:
     title: 'DepthFM: Fast Generative Monocular Depth Estimation with Flow Matching'
     year: '2025'
-    citations: 206
+    citations: 208
   EchdyZEAAAAJ:Se3iqnhoufwC:
     title: Attention-based multi-context guiding for few-shot semantic segmentation
     year: '2019'
@@ -114,7 +114,7 @@ papers:
   EchdyZEAAAAJ:NMxIlDl6LWMC:
     title: Does VLM Classification Benefit from LLM Description Semantics?
     year: '2024'
-    citations: 10
+    citations: 11
   EchdyZEAAAAJ:J_g5lzvAfSwC:
     title: 'ActAlign: Zero-Shot Fine-Grained Video Classification via Language-Guided
       Sequence Alignment'
